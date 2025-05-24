@@ -1,0 +1,31 @@
+# Dependencias
+node_modules/
+
+# Archivos de construcción
+dist/
+build/
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de caché
+.cache/
+.npm/
+.eslintcache
